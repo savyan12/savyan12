@@ -1,43 +1,57 @@
-<h1 align="center">Hey 👋 I'm sufyan</h1>
-<h3 align="center">Frontend Engineer • Vue Specialist • SaaS Builder</h3>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vuetify" height="60" alt="vuetify logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  <h1>Hi 👋, I'm Sufyan El-Tarhuni</h1>
+  <h3>Frontend Engineer • SaaS Builder • Vue Specialist</h3>
+ <p>🧠 I build real products, not just projects | 🚀 Turning Academic Challenges into Digital Products</p>
 </div>
-
-###
 
 <p align="center">
-  🧠 I build real products, not just projects.<br/>
-  🚀 Currently building SaaS platforms for students & local markets.<br/>
-  🔐 Interested in Cybersecurity & AI integration.<br/>
-  🛠️ 2025 Goal: Ship 50 production-ready projects.
+  <img src="https://komarev.com/ghpvc/?username=savyan12&label=Profile%20views&color=0e75b6&style=flat" alt="savyan12" />
 </p>
 
-###
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
- <!--  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=false" height="150" />-->
- <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&hide_border=false" height="150" /> 
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vuetify,tailwind,sass,nodejs,firebase,dotnet,java,flutter,react,figma,linux,github&perline=8" height="65" alt="tech stack" />
 </div>
 
-###
+---
+
+### 🚀 Featured Project
+
+<div align="center">
+  <h3>🎓 Quiz Time — Founder</h3>
+  <p>An interactive exam platform for university students offering realistic practice and smart analytics.</p>
+  <a href="https://quiz-time.edu.ly" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Platform-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=savyan12&theme=dracula&margin-w=15&column=7" alt="trophies" />
+</div>
+
+---
+
+### 📊 Performance & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savyan12&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="195" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyan12&layout=compact&theme=dracula&hide_border=true" height="195" alt="languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savyan12&theme=dracula&hide_border=true" height="195" alt="streak"/>
+</div>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savyan12&theme=github-dark&area=true" width="100%" />
+</p>
 
 <p align="center">
   <i>"With discipline, code becomes impact."</i>
