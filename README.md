@@ -1,19 +1,27 @@
 <div align="center">
-  <h1>Hi 👋, I'm Sufyan El-Tarhuni</h1>
-  <h3>Frontend Engineer • SaaS Builder • Vue Specialist</h3>
- <p>🧠 I build real products, not just projects | 🚀 Turning Academic Challenges into Digital Products</p>
-</div>
+
+# 💡 About Me
+### 🚀 Frontend Engineer • SaaS Builder • Vue Specialist
+
+---
+
+### ✨ الـلّٰـهُـمَّ انْـفَـعْـنِي بِـمَا عَـلَّـمْـتَـنِي ، وَزِدْنِـي عِـلْـمًـا 🤲
+### ﴿ رَبِّ زِدْنِي عِلْمًا ﴾
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=savyan12&label=Profile%20views&color=0e75b6&style=flat" alt="savyan12" />
 </p>
+
+</div>
 
 ---
 
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vuetify,tailwind,sass,nodejs,firebase,dotnet,java,flutter,react,figma,linux,github&perline=8" height="65" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vuetify,tailwind,sass,nodejs,firebase,dotnet,java,flutter,react,figma,linux,github&perline=8" height="75" alt="tech stack" />
 </div>
 
 ---
@@ -26,6 +34,13 @@
   <a href="https://quiz-time.edu.ly" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Platform-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</div>
+
+---
+
+### 🐍 Contributions
+<div align="center">
+  <img src="https://github-contribution-grid-snake-generator.vercel.app/api/snake.svg?username=savyan12&color-snake=%234c1d95&color-dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353" alt="snake" />
 </div>
 
 ---
