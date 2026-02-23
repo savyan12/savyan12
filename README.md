@@ -38,9 +38,13 @@
 
 ---
 
-### 🐍 Contributions
+### 📊 Performance & Stats
+
 <div align="center">
-  <img src="https://github-contribution-grid-snake-generator.vercel.app/api/snake.svg?username=savyan12&color-snake=%234c1d95&color-dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353" alt="snake" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=savyan12&show_icons=true&theme=dracula&hide_border=true" height="185" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=savyan12&layout=compact&theme=dracula&hide_border=true" height="185" alt="languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savyan12&theme=dracula&hide_border=true" height="185" alt="streak"/>
 </div>
 
 ---
@@ -48,17 +52,6 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=savyan12&theme=dracula&margin-w=15&column=7" alt="trophies" />
-</div>
-
----
-
-### 📊 Performance & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savyan12&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="195" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyan12&layout=compact&theme=dracula&hide_border=true" height="195" alt="languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savyan12&theme=dracula&hide_border=true" height="195" alt="streak"/>
 </div>
 
 ---
