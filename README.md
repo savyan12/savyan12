@@ -153,7 +153,7 @@
 
 ### Spotify Playing 🎧
 <div align="center">
-  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)]
 </div>
 
 ---
@@ -164,7 +164,7 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 <div align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  [![Jokes Card](https://readme-jokes.vercel.app/api)]
 </div>
 
 ## Here are some 🦜Parrots😂:
