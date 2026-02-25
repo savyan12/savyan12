@@ -1,6 +1,8 @@
 <div align="center">
- <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-  
+ <!-- <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> -->
+  <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -157,4 +159,60 @@
 </p>
 
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## Here are some 🦜Parrots😂:
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+   
+</div>
+<br>
+<p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+<!---### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arjuncvinod&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
+
+
+---
+<!---[![](https://visitcount.itsvg.in/api?id=arjuncvinod&icon=5&color=11)](https://visitcount.itsvg.in) -->
 
