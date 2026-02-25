@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-  # 💡 About Me
-  ### 🚀 Frontend Engineer • SaaS Builder • Vue Specialist
+  <h1>💡 About Me</h1>
+  <h3>🚀 Frontend Engineer • SaaS Builder • Vue Specialist</h3>
 
-  ---
+  <br>
 
   ### ✨ الـلّٰـهُـمَّ انْـفَـعْـنِي بِـمَا عَـلَّـمْـتَـنِي ، وَزِدْنِـي عِـلْـمًـا 🤲
   ### ﴿ رَبِّ زِدْنِي عِلْمًا ﴾
 
-  ---
+  <br>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=savyan12&label=Profile%20views&color=0e75b6&style=flat" alt="savyan12" />
@@ -153,7 +153,9 @@
 
 ### Spotify Playing 🎧
 <div align="center">
-  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)]
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
 </div>
 
 ---
@@ -164,7 +166,9 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 <div align="center">
-  [![Jokes Card](https://readme-jokes.vercel.app/api)]
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 </div>
 
 ## Here are some 🦜Parrots😂:
