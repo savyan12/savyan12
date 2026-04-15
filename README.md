@@ -3,7 +3,7 @@
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   <h1>💡 About Me</h1>
-  <h3>🚀 Frontend Engineer • SaaS Builder • Vue Specialist</h3>
+  <h3>🚀 Frontend Engineer • SaaS Builder • web & mobile Specialist</h3>
 
   <br>
 
