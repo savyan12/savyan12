@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=48&lines=Building+SaaS+products+from+Tripoli%2C+Libya;Vue+3+%2B+Nuxt+3%2F4+frontend+architecture;Flutter+mobile+systems+with+clean+data+flows;Execution-first+builder+with+systems+thinking;Learning+Go+one+solid+service+at+a+time" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=48&lines=Building+SaaS+products+from+Tripoli%2C+Libya;Vue+3+%2B+Nuxt+3%2F4+frontend+architecture;Flutter+mobile+with+clean+data" alt="Typing introduction" />
   </a>
 </p>
 
