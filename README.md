@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=48&lines=Building+SaaS+products+from+Tripoli%2C+Libya;Vue+3+%2B+Nuxt+3%2F4+frontend+architecture;Flutter+mobile+with+clean+data+flows" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=48&lines=Building+SaaS+products+from+Tripoli%2C+Libya;Vue+3+%2B+Nuxt+3%2F4+frontend+architecture;Flutter+mobile+systems+with+clean+data+flows;Execution-first+builder+with+systems+thinking;Learning+Go+one+solid+service+at+a+time" alt="Typing introduction" />
   </a>
 </p>
 
@@ -112,8 +112,17 @@ const sufyan = {
 ## `~/github-signals`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=savyan12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyan12&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=savyan12&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=savyan12&theme=github_dark" alt="Top languages by repository" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=savyan12&theme=github_dark" alt="Top languages by commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=savyan12&theme=github_dark&utcOffset=2" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savyan12&theme=github_dark" alt="GitHub profile details" />
 </p>
 
 <p align="center">
