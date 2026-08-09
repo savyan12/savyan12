@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,40:102A43,100:00E5FF&text=Sufyan%20el-tarhuni&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-stack%20Developer%20%7C%20Frontend%20Architecture&descSize=18&descAlignY=62&animation=fadeIn" alt="Sufyan el-tarhuni header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,40:102A43,100:00E5FF&text=Sufyan%20el-tarhuni&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descSize=18&descAlignY=62&animation=fadeIn" alt="Sufyan el-tarhuni header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=48&lines=Building+SaaS+products+from+Tripoli%2C+Libya;Vue+3+%2B+Nuxt+3%2F4+frontend+architecture;Flutter+mobile+with+clean+data" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=48&lines=Building+web+products+from+Tripoli%2C+Libya;Vue+3+%2B+Nuxt+3%2F4+frontend+architecture;Flutter+mobile+apps" alt="Typing introduction" />
   </a>
 </p>
 
@@ -30,22 +30,24 @@ const sufyan = {
   name: "Sufyan Mohamed el-tarhuni",
   base: "Tripoli, Libya",
   education: "College of Electronic Technology - Tripoli",
-  role: ["Software Engineer", "Full-stack Developer"],
+  role: ["Software Engineer", "Frontend Developer"],
   specialty: "Frontend Architecture",
   philosophy: "Think like a system analyst. Ship like a small, focused team.",
-  now: ["Scaling Quiz Time", "Building Mahfathati", "Learning Go"],
+  now: ["Building Quiz Time", "Building Mahfathati"],
 };
 ```
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Product Mindset</h3>
-      <p>I build products from the first data model to the last interaction. My work is closest to SaaS platforms, education tools, mobile-first flows, dashboards, and payment-like systems where clarity, trust, and speed matter.</p>
+      <h3>🎓 Quiz Time</h3>
+      <p>Interactive exam-practice platform for university students. Flutter interfaces, structured practice flows, focused on a calm and fast student experience.</p>
+      <p><sub><strong>Vue 3 · Flutter · Frontend UX</strong></sub> — <em>in development</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Engineering Style</h3>
-      <p>Minimal interfaces, strong component boundaries, clean state, practical security thinking, and an execution rhythm that favors shipping real value over endless talk.</p>
+      <h3>💳 Mahfathati</h3>
+      <p>Digital wallet interface concept exploring NFC and QR payment flows, with a clean, mobile-first UX for everyday transactions.</p>
+      <p><sub><strong>Flutter · Mobile UI · UX Flows</strong></sub> — <em>in development</em></p>
     </td>
   </tr>
 </table>
@@ -55,7 +57,7 @@ const sufyan = {
 ## `~/stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,dart,flutter,tailwind,vuetify,sass,nodejs,firebase,dotnet,cs,cpp,c,java,py,go,figma,linux,git,github&theme=dark&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,dart,flutter,tailwind,vuetify,sass,nodejs,firebase,figma,linux,git,github&theme=dark&perline=11" alt="Tech stack icons" />
 </p>
 
 <p align="center">
@@ -63,8 +65,7 @@ const sufyan = {
   <img src="https://img.shields.io/badge/Nuxt%203%2F4-SSR%20%26%20SaaS-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/TypeScript-Systems-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Linux-Fedora%20%2B%20Arch-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
-  <img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Learning Go" />
+  <img src="https://img.shields.io/badge/Linux-Fedora%20%2B%20Debian-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
 </p>
 
 ---
@@ -74,9 +75,9 @@ const sufyan = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Quiz Time</h3>
-      <p><strong>Founder and lead developer</strong></p>
-      <p>An interactive exam platform for university students with realistic practice flows, database design, Flutter interfaces, and analytics that help students prepare with confidence.</p>
+      <h3>Quiz Time <sub><em>(in development)</em></sub></h3>
+      <p><strong>Frontend developer</strong></p>
+      <p>An exam-practice app for university students. Building the Flutter interface and practice-flow UX to make studying feel simple and fast.</p>
       <p>
         <a href="https://quiz-time.edu.ly">
           <img src="https://img.shields.io/badge/Visit%20Platform-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Quiz Time" />
@@ -84,9 +85,9 @@ const sufyan = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Mahfathati</h3>
-      <p><strong>Digital wallet ecosystem</strong></p>
-      <p>A collaborative wallet project exploring NFC and QR payments, clean transaction flows, mobile-first UX, and infrastructure that can grow beyond the first version.</p>
+      <h3>Mahfathati <sub><em>(in development)</em></sub></h3>
+      <p><strong>Digital wallet UI concept</strong></p>
+      <p>A team project exploring NFC and QR-based payment flows, with a focus on a clean, mobile-first interface for everyday transactions.</p>
       <p>
         <img src="https://img.shields.io/badge/NFC-Payments-00E5FF?style=for-the-badge&logo=near&logoColor=white&labelColor=0D1117" alt="NFC payments" />
         <img src="https://img.shields.io/badge/QR-Flows-8B5CF6?style=for-the-badge&logo=qrcode&logoColor=white&labelColor=0D1117" alt="QR flows" />
@@ -159,10 +160,6 @@ const sufyan = {
   <a href="https://quiz-time.edu.ly">
     <img src="https://img.shields.io/badge/Quiz%20Time-Platform-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Quiz Time" />
   </a>
-</p>
-
-<p align="center">
-  <sub><em>"With discipline, code becomes impact."</em></sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,60:102A43,100:0D1117" alt="Footer wave" />
